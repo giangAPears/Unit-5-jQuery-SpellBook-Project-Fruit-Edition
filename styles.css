@@ -1,0 +1,36 @@
+body {
+    background: black;
+    text-align: center;
+}
+
+.magician {
+    display: flex;
+    justify-content: center;
+    color: darkblue;
+}
+
+.wizard {
+    display: flex;
+    justify-content: center;
+}
+
+.fruit {
+    color: white;
+}
+
+.faa {
+    display: flex;
+    justify-content: center;
+}
+
+.ra {
+    color: black;
+    background: black;
+    border: 5px outset black;
+}
+
+.button {
+    border: pink solid 10px;
+    padding: 20px;
+    margin: 20px;
+}
